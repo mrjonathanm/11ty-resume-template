@@ -6,6 +6,8 @@
     "status": "live",
     "technologies": ["Technology 1", "Technology 2", "Technology 3"]
   }
+]
+[
   {
     "industry": "Industry",
     "details": "Short description",
@@ -13,6 +15,8 @@
     "status": "live",
     "technologies": ["Technology 1", "Technology 2", "Technology 3"]
   }
+]
+[
   {
     "industry": "Industry",
     "details": "Short description",
