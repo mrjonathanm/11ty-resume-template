@@ -1,10 +1,10 @@
 {
-  "name": "Johen Doe",
-  "url": "https://www.gurpreetsingh.me",
-  "canonical": "https://www.gurpreetsingh.me",
+  "name": "Jonathan Miles",
+  "url": "https://jonathanmiles.uk",
+  "canonical": "https://jonathanmiles.uk",
   "lang": "en",
-  "locale": "en_US",
-  "title": "Resume of John Doe",
-  "themeColor": "#fffbeb",
-  "backgroundColor": "#451a03"
+  "locale": "en_UK",
+  "title": "Jonathan Miles - Cloud Engineer",
+  "themeColor": "#7b2cbf",
+  "backgroundColor": "#c0eceb"
 }
